@@ -41,9 +41,25 @@ This website is about kittens, particularly four different breeds. Each breed ha
 * I chose to put a brief welcome message in the weak follow area because it is perhaps the least important content and is not super important so it is okay if the viewer doesn't pay much attention to it.
 * I chose to put a link to the Types of Kitten webpage in the terminal area since it is the last thing that the viewer sees and it is the place of action. The goal of the website is to present information to the reader, so this is a good way to get the reader to dive into more info and the rest of the website.
 
+### F-Pattern:
+* I chose to lay out the F pattern with written information about each cat on the left and the photo on the right. This draws the viewer's eye across the screen.
+* I gave each cat a name as an h2 and then a section on their look, color, and personality. Each of these sections are denoted by an h3. This makes the most important info, the breed, stand out. 
+* The h3s help break up the information and make it easier to read and digest. It makes it easier to skim and understand quickly
+* The order of the cats is determined in part by the background color of the photos. I made sure that the two photos with white background weren't right next to eachother because that could've looked weird.
+
+## C.R.A.P. Principles
+
+contrast
+repitition
+alignment
+proximity
+
+## Fonts
+
+## CSS Architecture
 
 
-Explain your application of the F-Pattern - why you laid out what you did, from left-to-right
+
 Describe the C.R.A.P. principles that exist in your website and explain what they achieve
 Explain why you chose the fonts you did (and don’t ever say, “because I like them.”)
 Explain the structure behind your CSS Architecture
