@@ -55,9 +55,9 @@ This website is about kittens, particularly four different breeds. Each breed ha
 * Proximity: On the homepage, I added space between the line and the words/picture so that things weren't too close together. I made sure to add padding around the picture so that the words weren't too close to it. I also made sure there was plenty of space between the title and the navigation and between the welcome message and the link. This made it so that the words aren't too close together and allow the viewer's eye to properly scan the page. I made sure the line height was enough to make sure the words were easily legible. On the Types of Kittens page I added space between each breed so that they would be distinguishable from one another and not just seem like one giant page of information. Additionally, I added space between the different subheadings (Look, Color, and Personality) to set those apart from one another.
 
 ## Fonts
+I chose the fonts that I did because they are fun and professional. I think the font is light-hearted and fun (reminiscent of a kitten's personality) but still professional enough to be taken seriously as an informative website. They actually happen to be the same fonts I used for my personal website, but I think it conveys the same sort of feeling for this website as it does for my personal website: fun but professional.
 
 ## CSS Architecture
-
 
 
 Explain why you chose the fonts you did (and don’t ever say, “because I like them.”)
