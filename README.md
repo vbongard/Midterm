@@ -58,7 +58,4 @@ This website is about kittens, particularly four different breeds. Each breed ha
 I chose the fonts that I did because they are fun and professional. I think the font is light-hearted and fun (reminiscent of a kitten's personality) but still professional enough to be taken seriously as an informative website. They actually happen to be the same fonts I used for my personal website, but I think it conveys the same sort of feeling for this website as it does for my personal website: fun but professional.
 
 ## CSS Architecture
-
-
-Explain why you chose the fonts you did (and don’t ever say, “because I like them.”)
-Explain the structure behind your CSS Architecture
+I split up the CSS into five categories: general design choices, header design choices, z-pattern design choices, f-pattern design choices, and form design choices. I chose these categories because they split the information up fairly evenly and made it easy to know what classes went with what pages, when applicable. 
